@@ -10,7 +10,7 @@ Olá, eu sou o Lucas Marques Mendes! 👋
 
 👨‍💻 Sobre Mim
 <p>
-Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP, com formação técnica em Mecatrônica. Minha paixão é unir o mundo do software e do hardware para criar soluções práticas e inovadoras.
+Formado em Análise e Desenvolvimento de Sistemas na FATEC-SP, com formação técnica em Mecatrônica. Minha paixão é unir o mundo do software e do hardware para criar soluções práticas e inovadoras.
 </p>
 <p>
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end com Java e o ecossistema Spring, além de explorar o universo da segurança da informação e Inteligência Artificial.
