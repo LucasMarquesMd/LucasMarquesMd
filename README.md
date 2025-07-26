@@ -1,6 +1,6 @@
 Olá, eu sou o Lucas Marques Mendes! 👋
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/lucas-m-mendes" target="_blank">
+<a href="https://github.com/LucasMarquesMd" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" alt="LinkedIn"/>
 </a>
 <a href="mailto:lucasmqmendes@gmail.com">
