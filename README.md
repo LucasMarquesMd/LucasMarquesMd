@@ -1,7 +1,7 @@
 Olá, eu sou o Lucas Marques Mendes! 👋
 <p align="left">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/lucas-m-mendes" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" alt="LinkedIn"/>
 </a>
 <a href="mailto:lucasmqmendes@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
